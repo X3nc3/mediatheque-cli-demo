@@ -5,7 +5,7 @@ Le projet `mediatheque-cli` est un mini-projet Java conçu pour démontrer l'app
 Certaines fonctionnalités ont été intentionnellement omises pour donner aux étudiants l'opportunité de développer leurs compétences en implémentant des fonctionnalités supplémentaires.
 
 ## Contexte
-Ce projet a été développé dans le cadre d'un cours sur les concepts orientés objet en Java chez DiginamicFormation. Il vise à fournir aux étudiants une expérience concrète pour comprendre comment les principes de POO peuvent être utilisés pour structurer un logiciel complexe de manière intuitive et maintenable.
+Ce projet a été développé dans le cadre d'un cours sur les concepts orientés objet en Java chez @DiginamicFormation. Il vise à fournir aux étudiants une expérience concrète pour comprendre comment les principes de POO peuvent être utilisés pour structurer un logiciel complexe de manière intuitive et maintenable.
 
 ## Fonctionnalités implémentées
 - **Ajout d'un livre :** Permet aux utilisateurs d'ajouter de nouveaux livres à la collection.
