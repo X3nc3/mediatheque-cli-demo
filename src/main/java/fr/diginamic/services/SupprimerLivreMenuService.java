@@ -1,0 +1,20 @@
+package fr.diginamic.services;
+
+import fr.diginamic.dao.EmpruntDAO;
+import fr.diginamic.dao.LivreDAO;
+import fr.diginamic.exception.DAOException;
+
+import java.util.Scanner;
+
+public class SupprimerLivreMenuService extends MenuService {
+
+    @Override
+    public String intitule() {
+        return "Supprimer un Livre";
+    }
+
+    @Override
+    public void traiter(Scanner scanner, LivreDAO livreDAO, EmpruntDAO empruntDAO) {
+
+    }
+}
